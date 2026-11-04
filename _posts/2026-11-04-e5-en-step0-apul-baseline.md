@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "E5 timeseries EN: reproducing the A. pulchra baseline with 26.7"
-date: 2026-11-04 09:00:00 -0800
+date: 2026-11-04
 categories: [E5-coral]
 tags: [elastic-net, stability-selection, Apul, reproducibility]
 ---
