@@ -1,0 +1,8 @@
+title: Seorim Choi — Lab Notebook
+description: Research notes from the Roberts Lab at UW
+theme: minima
+url: "https://sechoi-dev.github.io"
+baseurl: "/lab-notebook"
+
+header_pages:
+  - index.md
