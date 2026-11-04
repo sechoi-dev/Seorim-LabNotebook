@@ -75,11 +75,11 @@ again with the full runs.
 
 ## Next
 
-Before the full runs, I want to check a few things with the lab:
+Before the full runs, just some documented notes on certain inconsistencies:
 
 1. Why 5 Peve samples were excluded even though they have data in every layer.
 2. Whether *A. pulchra* should use `Apul-gene-methylation.tsv` (as in 26.6) or the `_75pct` version,
    to match the other two species.
 3. Whether dropping every methylation feature with a missing value is intended.
-4. Settings for the full runs: gene sets, number of subsamples, and whether to run on a lab server.
-5. How they'd like the stability-selection and inner cross-validation issues handled.
+
+Going to ask the lab about what settings to use for full runs.
