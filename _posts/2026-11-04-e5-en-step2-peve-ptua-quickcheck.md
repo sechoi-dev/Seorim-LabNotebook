@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "E5 timeseries EN: first test runs on P. evermanni and P. tuahiniensis"
-date: 2026-11-04 17:00:00 -0800
+date: 2026-11-04
 categories: [E5-coral]
 tags: [elastic-net, stability-selection, Peve, Ptua]
 ---
